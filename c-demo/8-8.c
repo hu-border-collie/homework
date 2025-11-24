@@ -3,7 +3,7 @@ int main()
 {
     int n, r;
     static int a[10];
-    int top = 0; /* highest filled index */
+    int top = 0;
     char ch[6] = {'A', 'B', 'C', 'D', 'E', 'F'};
     scanf("%d %d", &n, &r);
     for (int i = 0; i < 10; i++)
