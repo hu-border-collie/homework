@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
-                  {
-                 int
-                x,y;static 
+                   {
+                  int
+                 x,y;static 
                 int a[10][10], 
                sum[5];char  
               num[10][5] ={"ling",
